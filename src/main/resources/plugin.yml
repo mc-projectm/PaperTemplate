@@ -1,0 +1,4 @@
+name: Trophies
+version: '${version}'
+main: com.projectm.trophies.Trophies
+api-version: '1.21'
